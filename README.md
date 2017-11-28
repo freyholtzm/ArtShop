@@ -1,2 +1,2 @@
 # ArtShop 
-Made for Leson 12
+Created for Lesson 12

@@ -3,7 +3,6 @@
   
   <head>
     <link rel="stylesheet" href="style.css">
-    <title>My Business</title>
   </head>
   
   <body>

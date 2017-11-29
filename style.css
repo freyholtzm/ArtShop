@@ -75,7 +75,7 @@ p {
 }
 
 .btn:hover {
-  transform: rotateY(360deg);
+  transform: rotateX(360deg);
   color: #662699;
 }
 

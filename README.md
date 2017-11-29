@@ -1,4 +1,3 @@
-#ArtShop
 <!DOCTYPE html>
 <html>
   

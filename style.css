@@ -226,7 +226,12 @@ ul {
 
 }
 
-
+button {
+  background-color: white;
+  color: dimgrey;
+  width: 5rem;
+  height: 2rem;
+}
 
 
 

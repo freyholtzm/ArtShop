@@ -20,7 +20,6 @@
       <br> At The Art Shop, everything we sell is handmade with that artist's blood, sweat, and tears.</p>
   </div>
 
-
   <div class="sidebar">
     <img src="https://freyholtzm.github.io/ArtShop/images/Logo.png" width=200px height=200px alt="BUSINESS LOGO">
     <ul>
@@ -32,7 +31,9 @@
   </div>
 </div>
 
-<div class="call-outs-container">
+<button id="hidebutton" onclick="hideOffers()">Hide Offers</button>
+
+<div id="specialoffers" class="call-outs-container">
   <div class="call-out">
     <h4>Start Selling!</h4>
     <p>Want to start selling your own artwork? Click on this learn more button to find out how!</p>
@@ -45,6 +46,14 @@
     <a href="#" class="lm">Learn More</a>
   </div>
 
+<script> 
+function hideOffers() {
+  var x = document.getElementById("specialoffers");
+  var y = document.getElementById("hidebutton");
+  x.style.display="none";
+  y.style.display="none";
+}
+</script>
 
 
 
